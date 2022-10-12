@@ -3,8 +3,8 @@
 ### You can check my projects to see my knowledge: 
 **👉[Eszter's projects](https://github.com/kovesdieszter?tab=repositories)**
 
-**Here you can see what I am working on at the moment:
-  👉 [ToDo application - react & typescript](https://github.com/kovesdieszter/SimpleToDo)
+**Here you can see what I am working on at the moment: <br>
+  👉 [ToDo application - react & typescript](https://github.com/kovesdieszter/SimpleToDo)<br>
   👉 [Tour of heroes - angular](https://github.com/kovesdieszter/angular-tour-of-heroes)**
 
 
