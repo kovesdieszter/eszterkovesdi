@@ -1,32 +1,11 @@
 # <h1 align="center">Hello, I am Eszter!</h1>
-### I am self-learning **React, Typescript, MUI and Angular.**
+### I am a junior Full Stack Developer, currently working at ioflair.**
 ### You can check my projects to see my knowledge: 
 **👉[Eszter's projects](https://github.com/kovesdieszter?tab=repositories)**
 
 **Here you can see what I am working on at the moment: <br>
   👉 [My CV project - react & typescript](https://github.com/kovesdieszter/cv) <br>
   👉 [ToDo application - react & typescript](https://github.com/kovesdieszter/SimpleToDo)<br>**
-
-
-## Languages and tools:
-- Javascript
-- React
-- CSS
-- HTML
-- Typescript
-- Bootstrap
-- Java Spring
-- PostgreSQL
-- Python
-- Angular(starting now)
-#####
-- Heroku
-- AWS Amplify
-#####
-- IntelliJ IDEA
-- VisualStudioCode
-- Postman
-- PyCharm
 
 
 ### Connect with me:
