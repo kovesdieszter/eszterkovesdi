@@ -4,8 +4,8 @@
 **👉[Eszter's projects](https://github.com/kovesdieszter?tab=repositories)**
 
 **Here you can see what I am working on at the moment: <br>
+  👉 [My CV project - react & typescript](https://github.com/kovesdieszter/cv)**
   👉 [ToDo application - react & typescript](https://github.com/kovesdieszter/SimpleToDo)<br>
-  👉 [Tour of heroes - angular](https://github.com/kovesdieszter/angular-tour-of-heroes)**
 
 
 ## Languages and tools:
@@ -31,5 +31,5 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/eszterkovesdi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="takacsberni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eszterkovesdi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eszterkovesdi" height="30" width="40" /></a>
 </p>
