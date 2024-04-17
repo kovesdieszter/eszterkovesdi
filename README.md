@@ -5,7 +5,6 @@
 
 **Here you can see what I am working on at the moment: <br>
   👉 [My CV project - react & typescript](https://github.com/kovesdieszter/cv) <br>
-  👉 [ToDo application - react & typescript](https://github.com/kovesdieszter/SimpleToDo)<br>**
 
 
 ### Connect with me:
